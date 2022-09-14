@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 import mpl_toolkits.axisartist as axisartist
-from . import mytools
+import mytools
 
 fig = plt.figure(figsize=(10,4))
 ax1 = axisartist.Subplot(fig, 121)
